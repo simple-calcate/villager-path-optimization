@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.aiwork.vpo.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PathNavigationMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
